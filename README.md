@@ -22,4 +22,4 @@ This tool takes a set of text files as input, calculates the similarity between 
 2. Place your text files in the `input_texts/` directory.
 3. Run the script:
    ```bash
-   python similarity_highlighter.py ( name of the python file to run )
+   python similarity_highlighter.py
